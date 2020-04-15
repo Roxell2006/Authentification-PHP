@@ -1,0 +1,35 @@
+.navbar-brand{
+	margin-right: 50px;
+}
+header{
+	margin-bottom: 100px;
+}
+/* message d'erreur des formulaires en rouge */
+.comment{
+	color: red;
+}
+/* cache le bouton du formulaire */
+.btnprofil{
+	display: none;
+}
+.btnsubmit{
+	display: block;
+	width: 200px;
+	margin: 50px auto;
+}
+.photo{
+	display: block;
+	width: 200px;
+	/* height: 200px; */
+	margin: 0 auto;
+}
+/* montre le pointer de click quand on survol l'image */
+.photo:hover{
+	cursor: pointer; 
+}
+.footer{
+	margin: 20px auto;
+}
+#email{
+	margin-bottom: 30px;
+}
